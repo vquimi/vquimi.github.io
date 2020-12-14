@@ -1,6 +1,6 @@
 # **Criptografia - Victor Quimi B**
 
-¿Qué es la criptografía y para qué sirven estas tecnologías?<h1> tag
+** ¿Qué es la criptografía y para qué sirven estas tecnologías? **
   
 La criptografía consiste en diferentes técnicas de codificación de la información con la intención de protegerla de terceros. Esto no es algo nuevo en lo absoluto, a lo largo de la historia los humanos hemos utilizado este tipo de sistemas para proteger información que consideramos confidencial, privada o importante. El mismo Julio Cesar de Roma creó uno de los primeros sistemas criptográficos que se recuerdan.
 
